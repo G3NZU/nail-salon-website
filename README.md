@@ -136,7 +136,7 @@ Custom Google Fonts are configured in `app/layout.tsx`:
 
 ## 📄 License
 
-This project is private and created for a specific nail salon business.
+This project is private and created for a specific nail salon business. (This repo is a public copy)
 
 ## 🙏 Acknowledgments
 
